@@ -15,6 +15,7 @@ children:
 
 - title: 'Instalação'
   url: /doc/pt-br/lb4/Installation.html
+  translated: true
   output: 'web, pdf'
 
 - title: 'Primeiros passos'
